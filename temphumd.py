@@ -12,3 +12,4 @@ fh = open("/home/svcnodered/output.txt", "a")
 fh.write(output)
 fh.close()
 #This is a test.  Update worked successfully!
+#Testing clone again.  chmod +x might need to be done for each pull
